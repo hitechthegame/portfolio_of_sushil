@@ -18,7 +18,7 @@ body {
     background-image: url(bg.jpg);
     background-size: cover;
     background-position: center;
-    position:fixed;
+    
 
 }
 .container{
@@ -41,6 +41,9 @@ nav{
 }
 .logo{
     width: 250px;
+}
+nav{
+    position:fixed;
 }
 nav ul li{
     display: inline-block;
